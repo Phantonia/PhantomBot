@@ -9,4 +9,4 @@ The bot deletes messages that are wrong as well as users that reply to themselve
 
 Other features involve a level system where users gain points when they count in counting channels and a command to make the bot count in that channel. For a detailed view on features, see the wiki.
 
-This bot is in Beta. Once the beta is over, there will be an invite link for the bot here.
+This bot is in Beta. Once the Beta is over, there will be an invite link for the bot here.
